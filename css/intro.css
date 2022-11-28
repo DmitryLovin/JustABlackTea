@@ -1,0 +1,32 @@
+.intro {
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  background-image: url("../images/logo.png");
+  background-size: 196px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+
+  margin-bottom: 24px;
+}
+
+.intro h1 {
+  font-family: Jura;
+  font-weight: bold;
+  font-size: 7em;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+.intro h2 {
+  font-family: Jura;
+  font-weight: bold;
+  font-size: 4em;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+@media (max-width: 600px) {
+  .intro h1 {
+  font-size: 6.25em;
+  }
+}

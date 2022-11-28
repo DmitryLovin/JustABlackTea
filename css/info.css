@@ -1,0 +1,41 @@
+.small img {
+  width: 128px;
+  margin-right: 4px;
+}
+
+.small h2 {
+  font-family: Jura;
+  font-weight: 600;
+  text-align: justify;
+}
+
+.big h2 {
+  font-size: 2.25em;
+  font-family: Jura;
+  font-weight: 600;
+}
+
+.big li {
+  margin-left: 33%;
+}
+
+.info-text {
+  font-family: Jura;
+  font-weight: 500;
+  text-align: justify;
+}
+
+.big .info-text {
+  font-size: 1.25em;
+}
+
+.small-text {
+  font-family: Jura;
+  font-weight: 300;
+  text-align: justify;
+  font-size: 0.75em;
+}
+
+.info-text-right {
+  direction: rtl;
+}
